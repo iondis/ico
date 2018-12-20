@@ -132,5 +132,4 @@ Some public audit reports available for some revisions of this codebase:
 
 * `For Civic by Zeppelin, June 2017 <https://medium.com/@ZeppelinOrg/a91754ab6e4b>`_
 
-More audit reports available on a request.
 
